@@ -21,7 +21,7 @@ canvas {
     background-color: red;
     display: flex;
     padding: 0.6rem;
-    width: 604px;
+    width: auto;
     height: 70px;
 }
 
